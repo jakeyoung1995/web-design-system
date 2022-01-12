@@ -1,0 +1,110 @@
+.maroon {
+    background-color:#800000;
+    color: white;
+}
+
+.beige {
+    background-color: #f5f5dc;
+}
+
+.gray {
+    background-color: #808080;
+    color: white;
+}
+
+.goldenrod {
+    background-color: #daa520;
+}
+
+.color_panel {
+    display: inline-block;
+    width: 35%; 
+    min-height: 100px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid black;
+    margin: 10px 50px;
+    padding: 10px;
+}
+
+.color_container {
+    padding: 10px;
+    width: 100%;
+    display: inline-block;
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.fonts_container {
+    padding: 10px;
+    display: inline-block;
+    width: 50%;
+}
+
+.font_style {
+    margin-right: 75px;
+}
+
+.encode {
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.roman {
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.style_1 {
+    font-weight: normal;
+}
+
+.style_2 {
+    font-weight: bold;
+}
+
+.style_3 {
+    font-style: italic;
+}
+
+.text_container {
+    border: 1pt solid black;
+    width: 50%;
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+p {
+    margin: 10px;
+    font-size: 14px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    margin: 10px;
+}
+
+body {
+    margin: 0 10%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    margin-left: 10px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1.title {
+    margin: 30px 50px;
+}
+
+.text_container p {
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
